@@ -1,0 +1,20 @@
+{
+  "id": "CPDbfDmbkE76",
+  "parentId": "CPP4Py79E9fy",
+  "index": 8,
+  "content": null,
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "?: access disallowed by code inspector to protected variable\n  from module: '#%futures\n  at: processor-count\n",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}
