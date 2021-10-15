@@ -2,7 +2,7 @@
   "id": "CPFLx6K3pGEN",
   "parentId": "CPP4Py79E9fy",
   "index": 6,
-  "content": null,
+  "content": "\"(module my-module racket\\n  (provide hello)\\n  (define (hello) ))\"",
   "column": 1,
   "fold": false,
   "thundar": false,

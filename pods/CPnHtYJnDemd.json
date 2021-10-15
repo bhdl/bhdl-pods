@@ -2,7 +2,7 @@
   "id": "CPnHtYJnDemd",
   "parentId": "CPQU4nPmdVqN",
   "index": 13,
-  "content": null,
+  "content": "\"(begin-for-syntax\\n (define (parse-dot stx)\\n   (match-let ([(list l r) (string-split (symbol->string (syntax-e stx)) \\\".\\\")])\\n     (let ([l (string->symbol l)]\\n           [r (or (string->number r) (string->symbol r))])\\n       (datum->syntax stx (list l r)))))\"",
   "column": 1,
   "fold": false,
   "thundar": false,

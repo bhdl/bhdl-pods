@@ -2,7 +2,7 @@
   "id": "CPTVfNNznBGB",
   "parentId": "CPQU4nPmdVqN",
   "index": 4,
-  "content": null,
+  "content": "\"(begin-for-syntax\\n (define-splicing-syntax-class\\n  pin-cls\\n  (pattern (~seq name [num]))\\n  (pattern (~seq name)\\n           #:with num -1)))\"",
   "column": 1,
   "fold": false,
   "thundar": false,

@@ -2,7 +2,7 @@
   "id": "CPTN7ngGp4Mp",
   "parentId": "CPP4Py79E9fy",
   "index": 3,
-  "content": null,
+  "content": "\"(define-syntax (my-#%app stx)\\n  (syntax-parse\\n    stx\\n    [(_ proc (~alt (~seq key:keyword value)\\n                   (~seq arg:maybe-splicing)) ...)\\n     #`(#%app apply proc (append arg.x ...)\\n              (~@ key value) ...)]))\"",
   "column": 1,
   "fold": false,
   "thundar": false,

@@ -2,7 +2,7 @@
   "id": "CPRhyExx6aBb",
   "parentId": "CPP4Py79E9fy",
   "index": 12,
-  "content": null,
+  "content": "\"(module just-lambda racket\\n    (provide lambda #%module-begin))\"",
   "column": 1,
   "fold": false,
   "thundar": false,

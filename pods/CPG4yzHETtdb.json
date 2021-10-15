@@ -2,7 +2,7 @@
   "id": "CPG4yzHETtdb",
   "parentId": "CPQU4nPmdVqN",
   "index": 37,
-  "content": null,
+  "content": "\"(define (collect-all-atoms comp)\\n  \\\"This version sort the atoms based on their eq-hash-code.\\\"\\n  (sort (collect-all-atoms-random comp) < #:key eq-hash-code))\"",
   "column": 1,
   "fold": false,
   "thundar": false,

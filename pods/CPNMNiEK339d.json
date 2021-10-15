@@ -2,7 +2,7 @@
   "id": "CPNMNiEK339d",
   "parentId": "CPP4Py79E9fy",
   "index": 13,
-  "content": null,
+  "content": "\"(module identity 'just-lambda\\n    (lambda (x) x)\\n    )\\n    (require 'identity)\"",
   "column": 1,
   "fold": false,
   "thundar": false,

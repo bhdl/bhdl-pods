@@ -2,7 +2,7 @@
   "id": "CPgbfk7znYJh",
   "parentId": "CPP4Py79E9fy",
   "index": 11,
-  "content": null,
+  "content": "\"(module lambda-calculus racket\\n    (provide (rename-out [1-arg-lambda lambda]\\n                         [1-arg-app #%app]\\n                         [1-form-module-begin #%module-begin]\\n                         [no-literals #%datum]\\n                         [unbound-as-quoted #%top]))\\n    (define-syntax-rule (1-arg-lambda (x) expr)\\n      (lambda (x) expr))\\n    (define-syntax-rule (1-arg-app e1 e2)\\n      (#%app e1 e2))\\n    (define-syntax-rule (1-form-module-begin e)\\n      (#%module-begin e))\\n    (define-syntax (no-literals stx)\\n      (raise-syntax-error #f \\\"no\\\" stx))\\n    (define-syntax-rule (unbound-as-quoted . id)\\n      'id))\"",
   "column": 1,
   "fold": false,
   "thundar": false,

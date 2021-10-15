@@ -2,7 +2,7 @@
   "id": "CPXThXqfXcbL",
   "parentId": "CPP4Py79E9fy",
   "index": 10,
-  "content": null,
+  "content": "\"(require 'test-splicing)\"",
   "column": 1,
   "fold": false,
   "thundar": false,

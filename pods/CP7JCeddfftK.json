@@ -2,7 +2,7 @@
   "id": "CP7JCeddfftK",
   "parentId": "CPQU4nPmdVqN",
   "index": 8,
-  "content": null,
+  "content": "\"(define-syntax-parameter self\\n  (lambda (stx)\\n    (raise-syntax-error (syntax-e stx) \\\"can only be used inside make-circuit\\\")))\"",
   "column": 1,
   "fold": false,
   "thundar": false,

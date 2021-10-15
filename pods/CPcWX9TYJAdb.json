@@ -2,7 +2,7 @@
   "id": "CPcWX9TYJAdb",
   "parentId": "CPQU4nPmdVqN",
   "index": 2,
-  "content": null,
+  "content": "\"(struct Composite\\n  (pinhash nets [pict #:auto])\\n  #:mutable\\n  #:methods gen:custom-write\\n  [(define (write-proc self port mode)\\n     (write-string (~a \\\"#<Composite-\\\" (eq-hash-code self) \\\">\\\")\\n                   port))])\"",
   "column": 1,
   "fold": false,
   "thundar": false,

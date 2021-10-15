@@ -2,7 +2,7 @@
   "id": "CPVb6N4T9j34",
   "parentId": "CPQU4nPmdVqN",
   "index": 6,
-  "content": null,
+  "content": "\"(define (get-pin-name name num)\\n  (case num\\n        [(-1) name]\\n        [else (~a name \\\"--\\\" num)]))\"",
   "column": 1,
   "fold": false,
   "thundar": false,
