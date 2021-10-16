@@ -1,8 +1,8 @@
 {
   "id": "CPHyecwRFTKG",
   "parentId": "CPQU4nPmdVqN",
-  "index": 20,
-  "content": null,
+  "index": 22,
+  "content": "\"(define-syntax (*- stx)\\n  (syntax-parse stx\\n    [(_ node:maybe-dot ...)\\n     ;; TODO add #:weight\\n     #`(*--proc (list node.res ...))]))\"",
   "column": 1,
   "fold": false,
   "thundar": false,
@@ -10,11 +10,11 @@
   "name": null,
   "lang": "racket",
   "type": "CODE",
-  "result": null,
-  "stdout": null,
-  "error": null,
-  "imports": null,
-  "exports": null,
-  "midports": null,
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "null",
+  "exports": "null",
+  "midports": "null",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

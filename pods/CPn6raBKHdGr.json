@@ -1,7 +1,7 @@
 {
   "id": "CPn6raBKHdGr",
   "parentId": "CPQU4nPmdVqN",
-  "index": 7,
+  "index": 8,
   "content": "\"(define-syntax (create-simple-Composite stx)\\n  (syntax-parse \\n    stx\\n    [(_ pin:pin-cls ...)\\n    #`(let ([res (Composite (make-hash) '())]\\n                 [pins (append (get-pin-names 'pin.name 'pin.num) ...)])\\n           (for ([pname pins]\\n                        [i (in-naturals 1)])\\n                (let ([p (Pin res pname)])\\n                  (hash-set! (Composite-pinhash res) pname p)\\n                  (hash-set! (Composite-pinhash res)\\n                             (string->symbol (~a \\\"index-\\\" i)) p)))\\n           res)]))\"",
   "column": 1,
   "fold": false,
