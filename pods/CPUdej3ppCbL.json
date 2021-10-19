@@ -1,7 +1,7 @@
 {
   "id": "CPUdej3ppCbL",
   "parentId": "CPHKPFTgKmQp",
-  "index": 6,
+  "index": 7,
   "content": "\"(define fp-capacitor-0603\\n  (kicad-helper \\\"Capacitor_SMD.pretty/\\\"\\n                \\\"C_0603_1608Metric.kicad_mod\\\"))\\n(define fp-capacitor-0805\\n  (kicad-helper \\\"Capacitor_SMD.pretty/\\\"\\n                \\\"C_0805_2012Metric.kicad_mod\\\"))\\n\\n(define (fp-capacitor type)\\n  (case type\\n    [(\\\"0603\\\") fp-capacitor-0603]\\n    [(\\\"0805\\\") fp-capacitor-0805]))\"",
   "column": 1,
   "fold": false,
@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "\"\"",
-  "stdout": "",
+  "stdout": "text-spec: undefined;\n cannot reference an identifier before its definition\n  in module: 'ROOT/CPyimCxcxxTe/CPRMkQVGwhBw/CPHKPFTgKmQp\n  context...:\n   /usr/share/racket/collects/racket/private/norm-define.rkt:52:83: read-kicad-mod\n   /usr/share/racket/collects/racket/private/norm-define.rkt:59:64: kicad-helper\n   body of top-level\n   eval:94:0: CODEPOD-EVAL\n",
   "error": "null",
   "imports": "{}",
   "exports": "{}",

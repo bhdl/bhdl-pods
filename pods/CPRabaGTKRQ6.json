@@ -1,7 +1,7 @@
 {
   "id": "CPRabaGTKRQ6",
   "parentId": "CPHKPFTgKmQp",
-  "index": 12,
+  "index": 13,
   "content": "\"(define fp-1602\\n  (kicad-helper \\\"Display.pretty/\\\"\\n                \\\"LCD-016N002L.kicad_mod\\\"))\\n\\n;; CAUTION FIXME this is completely a dummy fp to ease development placeholders\\n(define fp-dummy fp-1602)\"",
   "column": 1,
   "fold": false,
@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "\"\"",
-  "stdout": "",
+  "stdout": "text-spec: undefined;\n cannot reference an identifier before its definition\n  in module: 'ROOT/CPyimCxcxxTe/CPRMkQVGwhBw/CPHKPFTgKmQp\n  context...:\n   /usr/share/racket/collects/racket/private/norm-define.rkt:52:83: read-kicad-mod\n   /usr/share/racket/collects/racket/private/norm-define.rkt:59:64: kicad-helper\n   body of top-level\n   eval:94:0: CODEPOD-EVAL\n",
   "error": "null",
   "imports": "{}",
   "exports": "{}",

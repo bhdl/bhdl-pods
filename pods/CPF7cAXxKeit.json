@@ -1,7 +1,7 @@
 {
   "id": "CPF7cAXxKeit",
   "parentId": "CP9hPyBA9z8P",
-  "index": 2,
+  "index": 4,
   "content": "\"(define-syntax (define-alias stx)\\n  (syntax-parse stx\\n    [(_ (name ...) body ...)\\n     #`(match-define (list name ...)\\n         (make-list (length (list #'name ...)) (begin body ...)))]))\"",
   "column": 1,
   "fold": false,
@@ -14,7 +14,7 @@
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"define-alias\":true}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

@@ -1,7 +1,7 @@
 {
   "id": "CPxmwdAFwMp6",
   "parentId": "CP9hPyBA9z8P",
-  "index": 1,
+  "index": 3,
   "content": "\"(define-syntax-rule (myvoid stx ...)\\n  (void))\"",
   "column": 1,
   "fold": false,
@@ -14,7 +14,7 @@
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"myvoid\":true}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

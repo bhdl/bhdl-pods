@@ -1,0 +1,20 @@
+{
+  "id": "CPjEEpbE6cUc",
+  "parentId": "CPVMzLibHe9N",
+  "index": 0,
+  "content": "\"Point-x\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "{\"text\":\"#<procedure:Point-x>\",\"count\":5029}",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

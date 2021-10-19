@@ -1,7 +1,7 @@
 {
   "id": "CPNxjtEaAzUi",
   "parentId": "CPHKPFTgKmQp",
-  "index": 2,
+  "index": 3,
   "content": "\"(define kicad-footprint-paths\\n  (make-parameter (map (lambda (x)\\n                         (build-path (bhdl-footprints-path)\\n                                     x))\\n                       '(\\\"kicad-footprints\\\"\\n                         \\\"arduino-kicad-library\\\"\\n                         \\\"SparkFun-KiCad-Libraries/Footprints\\\"\\n                         \\\".\\\"))))\"",
   "column": 1,
   "fold": false,

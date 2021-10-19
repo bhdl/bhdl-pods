@@ -1,8 +1,8 @@
 {
   "id": "CP7DpWxdBzTd",
   "parentId": "CP9hPyBA9z8P",
-  "index": 10,
-  "content": "\"(define (warn . args)\\n  (displayln (~a #:separator \\\" \\\" \\\"WARNING: \\\" args ..)))\\n\\n(define (debug . args)\\n  (displayln (~a #:separator \\\" \\\" \\\"DEBUG: \\\" args ..)))\"",
+  "index": 12,
+  "content": "\"(define (warn . args)\\n  (displayln (~a #:separator \\\" \\\" \\\"WARNING: \\\" args ..)))\\n\"",
   "column": 1,
   "fold": false,
   "thundar": false,
@@ -14,7 +14,7 @@
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"warn\":true}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }
