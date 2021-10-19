@@ -1,0 +1,20 @@
+{
+  "id": "CPDFRrqPUqwn",
+  "parentId": "CPmxLGUfd7eN",
+  "index": 1,
+  "content": "\"(require (for-syntax syntax/parse racket))\\n(define-syntax (reset-module stx)\\n  (syntax-parse\\n    stx\\n    [(_ ns names ...)\\n    #`(module ns racket\\n        (provide names ...)\\n        (define names \\\"PLACEHOLDER\\\") ...)]))\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

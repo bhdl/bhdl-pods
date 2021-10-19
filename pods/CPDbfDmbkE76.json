@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "\"\"",
-  "stdout": "?: access disallowed by code inspector to protected variable\n  from module: '#%futures\n  at: processor-count\n",
+  "stdout": "",
   "error": "null",
   "imports": "{}",
   "exports": "{}",

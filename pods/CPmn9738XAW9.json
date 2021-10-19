@@ -1,0 +1,20 @@
+{
+  "id": "CPmn9738XAW9",
+  "parentId": "CPkwWP4EWjQa",
+  "index": 3,
+  "content": "\"(begin-for-syntax\\n  (eval 'syn1))\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

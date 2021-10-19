@@ -1,0 +1,20 @@
+{
+  "id": "CPDr8peY9UF9",
+  "parentId": "CPfqbAB7zapi",
+  "index": 2,
+  "content": "\"(enter! #f)\\n(define (CODEPOD-ADD-IMPORT from to name)\\n  (let ([name (string->symbol name)])\\n    ;; this must not be in a begin form together with (define ...)s\\n    ; (eval (ns->enter to))\\n    (my-ns-enter! to)\\n    ;; FIXME I cannot require it here, otherwise this file is not loaded\\n    ;; (eval (require rackunit))\\n    ; (eval `(define ,name (dynamic-require/expose '',(string->symbol from) ',name)))\\n    ; (eval `(require/expose ',(string->symbol from) (,name)))\\n    (eval `(require ',(string->symbol from)))\\n    ;; if no return expression, iracket will not send anything back\\n    \\\"OK\\\"))\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

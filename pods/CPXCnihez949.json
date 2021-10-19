@@ -10,11 +10,11 @@
   "name": null,
   "lang": null,
   "type": "CODE",
-  "result": null,
-  "stdout": null,
-  "error": null,
-  "imports": null,
-  "exports": null,
-  "midports": null,
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "null",
+  "exports": "null",
+  "midports": "null",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

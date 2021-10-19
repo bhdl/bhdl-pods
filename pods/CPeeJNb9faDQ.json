@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"'((10 9 6 5 4) (8 7 3 2 1))\",\"count\":112}",
+  "result": "{\"text\":\"'((10 9 6 5 4) (8 7 3 2 1))\",\"count\":248}",
   "stdout": "",
   "error": "null",
   "imports": "{}",

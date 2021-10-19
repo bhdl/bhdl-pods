@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "\"\"",
-  "stdout": "#<procedure>\n",
+  "stdout": "",
   "error": "null",
   "imports": "{}",
   "exports": "{}",

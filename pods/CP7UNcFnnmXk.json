@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"'(1 2)\",\"count\":29}",
+  "result": "\"\"",
   "stdout": "",
   "error": "null",
   "imports": "{}",
