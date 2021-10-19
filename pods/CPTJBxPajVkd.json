@@ -1,0 +1,20 @@
+{
+  "id": "CPTJBxPajVkd",
+  "parentId": "CPHKPFTgKmQp",
+  "index": 0,
+  "content": "\"(require (for-syntax syntax/parse\\n                     racket/string)\\n         syntax/parse/define\\n         rackunit\\n         \\\"fp-base.rkt\\\"\\n         \\\"gerber.rkt\\\"\\n         \\\"utils.rkt\\\"\\n         pict\\n         racket/trace\\n         racket/contract\\n         racket/draw\\n         racket/string\\n         json)\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "CPKhiCKm3yA9",
+  "parentId": "CPtgV36e4DrU",
+  "index": 0,
+  "content": "\"(require \\\"fp-base.rkt\\\"\\n         \\\"fp-kicad.rkt\\\"\\n         \\\"fp-easyeda.rkt\\\"\\n         \\\"gerber.rkt\\\"\\n         \\\"gerber-viewer.rkt\\\"\\n         \\\"pict-utils.rkt\\\"\\n         \\\"common.rkt\\\"\\n         ;; FIXME dependency\\n         \\\"sch.rkt\\\"\\n         \\\"utils.rkt\\\"\\n         \\\"library-base.rkt\\\"\\n         pict\\n         \\n         rebellion/collection/entry\\n         rebellion/collection/multidict)\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

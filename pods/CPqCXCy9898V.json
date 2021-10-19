@@ -1,0 +1,20 @@
+{
+  "id": "CPqCXCy9898V",
+  "parentId": "CPadywggP7TT",
+  "index": 3,
+  "content": "\"(struct pad-spec\\n  (name\\n   x y a\\n   mounting-type\\n   shape\\n   size\\n   dsize\\n   ;; possible values: top, bottom, multi\\n   layer)\\n  #:prefab)\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

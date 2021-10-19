@@ -1,0 +1,20 @@
+{
+  "id": "CPMiwrH7Rhke",
+  "parentId": "CPHKPFTgKmQp",
+  "index": 22,
+  "content": "\"(define fp-SOT-23\\n  (kicad-helper \\\"Package_TO_SOT_SMD.pretty\\\" \\\"SOT-23.kicad_mod\\\"))\\n\\n(define fp-SOT-223\\n  (kicad-helper \\\"Package_TO_SOT_SMD.pretty\\\" \\\"SOT-223.kicad_mod\\\"))\\n\\n(define fp-SOT-23-5\\n  (kicad-helper \\\"Package_TO_SOT_SMD.pretty\\\" \\\"SOT-23-5.kicad_mod\\\"))\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

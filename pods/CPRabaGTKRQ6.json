@@ -1,0 +1,20 @@
+{
+  "id": "CPRabaGTKRQ6",
+  "parentId": "CPHKPFTgKmQp",
+  "index": 12,
+  "content": "\"(define fp-1602\\n  (kicad-helper \\\"Display.pretty/\\\"\\n                \\\"LCD-016N002L.kicad_mod\\\"))\\n\\n;; CAUTION FIXME this is completely a dummy fp to ease development placeholders\\n(define fp-dummy fp-1602)\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

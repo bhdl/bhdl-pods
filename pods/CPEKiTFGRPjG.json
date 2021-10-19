@@ -1,7 +1,7 @@
 {
-  "id": "CPYcnXjx3FT9",
-  "parentId": "CP4jjhDrHncc",
-  "index": 0,
+  "id": "CPEKiTFGRPjG",
+  "parentId": "CPHKPFTgKmQp",
+  "index": 16,
   "content": null,
   "column": 1,
   "fold": false,
@@ -10,11 +10,11 @@
   "name": null,
   "lang": "racket",
   "type": "CODE",
-  "result": "\"\"",
-  "stdout": "",
-  "error": "null",
-  "imports": "null",
-  "exports": "null",
-  "midports": "null",
+  "result": null,
+  "stdout": null,
+  "error": null,
+  "imports": null,
+  "exports": null,
+  "midports": null,
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

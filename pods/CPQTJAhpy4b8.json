@@ -1,0 +1,20 @@
+{
+  "id": "CPQTJAhpy4b8",
+  "parentId": "CP63Je4zKaFa",
+  "index": 2,
+  "content": "\" (define-splicing-syntax-class footprint-spec\\n   ;; TODO FIXME check the number of footprint pads and the number of pins match\\n   (pattern (~seq #:DIP (num pin ...))\\n            ;; #:with package #'DIP\\n            #:with res #'(FpSpec (~a \\\"DIP-\\\" num) (fp-DIP num) '(pin ...)))\\n   (pattern (~seq #:QFN (num pin ...))\\n            ;; #:with package #'QFN\\n            #:with res #'(FpSpec (~a \\\"QFN-\\\" num) (fp-QFN num) '(pin ...)))\\n   (pattern (~seq #:LQFP (num pin ...))\\n            #:with res #'(FpSpec (~a \\\"LQFP-\\\" num) (fp-LQFP num) '(pin ...)))\\n   (pattern (~seq #:TQFP (num pin ...))\\n            #:with res #'(FpSpec (~a \\\"TQFP-\\\" num) (fp-TQFP num) '(pin ...)))\\n   ;; FIXME HACK If we already specified custom FP, most likely we are only\\n   ;; specifying one fp. In this case, no fp name is assigned.\\n   (pattern (~seq #:FP (fp pin ...))\\n            #:with res #'(FpSpec #f fp '(pin ...)))\\n   (pattern (~seq #:named-FP (fp name pin ...))\\n            #:with res #'(FpSpec name fp '(pin ...)))\\n   (pattern (~seq #:auto-FP fp)\\n            #:with res #'(FpSpec #f fp (map pad-spec-name (footprint-pads fp))))\\n   (pattern (~seq #:auto-named-FP (name fp))\\n            #:with res #`(FpSpec name fp (filter-not\\n                                          ;; HACK the pad names can be integer, string, symbol.\\n                                          ;; I'm filtering out empty strings representing holes ..\\n                                          ;; I should have a separate hole section.\\n                                          string?\\n                                          (map pad-spec-name (footprint-pads fp))\\n                                          \\n                                                     )))))\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

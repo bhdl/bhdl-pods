@@ -1,0 +1,20 @@
+{
+  "id": "CPNAz4K9aTUU",
+  "parentId": "CP6M6tV7VJkb",
+  "index": 0,
+  "content": "\"(require (for-syntax syntax/parse)\\n         \\\"utils.rkt\\\"\\n         \\\"sch.rkt\\\"\\n         \\\"fp-base.rkt\\\"\\n         \\\"library-base.rkt\\\"\\n         \\\"library-io.rkt\\\"\\n         racket/contract\\n         pict)\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

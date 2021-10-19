@@ -1,0 +1,20 @@
+{
+  "id": "CPeXDRfWREhe",
+  "parentId": "CPadywggP7TT",
+  "index": 8,
+  "content": "\"(define (get-4-corners lines)\\n  (list (get-corner lines 'x min)\\n        (get-corner lines 'y min)\\n        (get-corner lines 'x max)\\n        (get-corner lines 'y max)))\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

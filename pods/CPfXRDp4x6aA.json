@@ -1,0 +1,20 @@
+{
+  "id": "CPfXRDp4x6aA",
+  "parentId": "CPadywggP7TT",
+  "index": 5,
+  "content": "\"\\n(define bhdl-footprints-path\\n  ;; FIXME make this configurable\\n  (make-parameter\\n   (expand-user-path\\n    ;; \\\"~/git/bhdl/bhdl-footprints\\\"\\n    (or (getenv \\\"BHDL_LIBRARY_PATH\\\")\\n        ;; TODO well, I could probably just download for user\\n        (error \\\"BHDL: env variable BHDL_LIBRARY_PATH is not set\\\")))))\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}
