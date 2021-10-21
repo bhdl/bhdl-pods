@@ -1,7 +1,7 @@
 {
   "id": "CP7883AJLJAD",
   "parentId": "CPQU4nPmdVqN",
-  "index": 31,
+  "index": 34,
   "content": "\"(define (my-merge-helper lsts todo res)\\n  (if (set-empty? todo) res\\n      (let ([item (set-first todo)]\\n            [todo (set-rest todo)])\\n        (let ([group (get-all-connected lsts (seteq item) (seteq))])\\n          (my-merge-helper lsts (set-subtract todo group)\\n                           (set-add res group))))))\"",
   "column": 1,
   "fold": false,
@@ -14,7 +14,7 @@
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"my-merge-helper\":false}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

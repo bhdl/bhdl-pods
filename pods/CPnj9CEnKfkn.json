@@ -1,7 +1,7 @@
 {
   "id": "CPnj9CEnKfkn",
   "parentId": "CPQU4nPmdVqN",
-  "index": 14,
+  "index": 17,
   "content": "\"(struct Net\\n  (pins))\"",
   "column": 1,
   "fold": false,
@@ -14,7 +14,7 @@
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"struct Net\":false}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

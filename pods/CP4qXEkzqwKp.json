@@ -1,7 +1,7 @@
 {
   "id": "CP4qXEkzqwKp",
   "parentId": "CPHKPFTgKmQp",
-  "index": 27,
+  "index": 32,
   "content": "\"(define fp-WS2812B\\n  (kicad-helper \\\"LED_SMD.pretty\\\" \\\"LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.kicad_mod\\\"))\"",
   "column": 1,
   "fold": false,
@@ -14,7 +14,7 @@
   "stdout": "text-spec: undefined;\n cannot reference an identifier before its definition\n  in module: 'ROOT/CPyimCxcxxTe/CPRMkQVGwhBw/CPHKPFTgKmQp\n  context...:\n   body of 'ROOT/CPyimCxcxxTe/CPRMkQVGwhBw/CPHKPFTgKmQp\n   /usr/share/racket/collects/racket/private/norm-define.rkt:52:83: read-kicad-mod\n   /usr/share/racket/collects/racket/private/norm-define.rkt:59:64: kicad-helper\n   body of top-level\n   eval:94:0: CODEPOD-EVAL\n",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"fp-WS2812B\":true}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

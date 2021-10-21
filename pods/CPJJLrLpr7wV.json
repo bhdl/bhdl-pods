@@ -1,7 +1,7 @@
 {
   "id": "CPJJLrLpr7wV",
   "parentId": "CPQU4nPmdVqN",
-  "index": 2,
+  "index": 4,
   "content": "\"(struct Atom\\n  (pinhash [pict #:auto])\\n  #:mutable)\"",
   "column": 1,
   "fold": false,
@@ -14,7 +14,7 @@
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"struct Atom\":true}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

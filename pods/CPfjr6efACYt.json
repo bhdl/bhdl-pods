@@ -1,7 +1,7 @@
 {
   "id": "CPfjr6efACYt",
   "parentId": "CPQU4nPmdVqN",
-  "index": 1,
+  "index": 3,
   "content": "\"(struct Pin\\n        (parent name)\\n        #:methods gen:custom-write\\n        [(define (write-proc pin port mode)\\n           (write-string\\n             (~a \\\"#<Pin-\\\"\\n                 (eq-hash-code (Pin-parent pin)) \\\"-\\\"\\n                 (Pin-name pin) \\\">\\\")\\n             port))])\"",
   "column": 1,
   "fold": false,
@@ -14,7 +14,7 @@
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"struct Pin\":true}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }
