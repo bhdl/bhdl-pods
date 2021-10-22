@@ -4,7 +4,7 @@
   "index": 0,
   "content": "\"; (require rackunit)\\n; (my-ns-enter! \\\"CPD8wE8EVy3i/CPQU4nPmdVqN\\\")\\nhook-proc!\\n; (enter! #f)\\n; 1\"",
   "column": 1,
-  "fold": false,
+  "fold": true,
   "thundar": false,
   "utility": false,
   "name": "",

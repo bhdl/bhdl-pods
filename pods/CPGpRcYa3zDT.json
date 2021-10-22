@@ -1,8 +1,8 @@
 {
-  "id": "CPkADYtfkUJ7",
-  "parentId": "CPd9QdD3kKcV",
-  "index": 0,
-  "content": "\"struct:Atom\"",
+  "id": "CPGpRcYa3zDT",
+  "parentId": "CPHKPFTgKmQp",
+  "index": 31,
+  "content": "\"(define fp-SOT-23-5\\n  (kicad-helper \\\"Package_TO_SOT_SMD.pretty\\\" \\\"SOT-23-5.kicad_mod\\\"))\"",
   "column": 1,
   "fold": false,
   "thundar": false,
@@ -10,11 +10,11 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<struct-type:Atom>\",\"html\":\"<code>#&lt;struct-type:Atom&gt;</code>\",\"count\":7642}",
+  "result": "\"\"",
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"fp-SOT-23-5\":false}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

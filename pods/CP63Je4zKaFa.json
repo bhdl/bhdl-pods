@@ -1,10 +1,10 @@
 {
   "id": "CP63Je4zKaFa",
   "parentId": "CPBmYNgbhetq",
-  "index": 2,
+  "index": 1,
   "content": "null",
   "column": 1,
-  "fold": false,
+  "fold": true,
   "thundar": false,
   "utility": false,
   "name": "IC",
@@ -14,7 +14,7 @@
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"self\":true}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

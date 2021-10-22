@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<Composite-289775>\",\"html\":\"<code>#&lt;Composite-289775&gt;</code>\",\"count\":7544}",
+  "result": "\"\"",
   "stdout": "",
   "error": "null",
   "imports": "{}",

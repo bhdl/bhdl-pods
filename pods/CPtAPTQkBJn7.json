@@ -1,7 +1,7 @@
 {
   "id": "CPtAPTQkBJn7",
   "parentId": "CP9hPyBA9z8P",
-  "index": 17,
+  "index": 19,
   "content": "\"(define-syntax (assert stx)\\n  (syntax-parse\\n   stx\\n   [(_ xxx)\\n    #'(or xxx (error \\\"Assertion failed:\\\" 'xxx))]))\\n\"",
   "column": 1,
   "fold": false,

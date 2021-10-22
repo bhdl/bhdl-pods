@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:Point-x>\",\"count\":5029}",
+  "result": "\"\"",
   "stdout": "",
   "error": "null",
   "imports": "{}",

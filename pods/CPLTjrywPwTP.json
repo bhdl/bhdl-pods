@@ -1,8 +1,8 @@
 {
-  "id": "CPAWVEKPNPYJ",
+  "id": "CPLTjrywPwTP",
   "parentId": "CPRMkQVGwhBw",
   "index": 7,
-  "content": "\"footprint->gerber\"",
+  "content": "\"(define fp-kailh-socket-merge\\n  (merge-fp fp-kailh-socket-kicad\\n            fp-stabilizer-2u))\"",
   "column": 1,
   "fold": false,
   "thundar": false,
@@ -10,11 +10,11 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:footprint->gerber>\",\"count\":5222}",
+  "result": "\"\"",
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"fp-kailh-socket-merge\":true}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

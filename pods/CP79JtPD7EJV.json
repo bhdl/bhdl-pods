@@ -1,7 +1,7 @@
 {
   "id": "CP79JtPD7EJV",
   "parentId": "CPN8XE37ddzD",
-  "index": 6,
+  "index": 5,
   "content": "\"(define-syntax (wrap-*-superimpose stx)\\n  (syntax-parse\\n   stx\\n   [(_ name)\\n    (with-syntax ([pict:name (syntax-add-prefix \\\"pict:\\\" #'name)])\\n      #'(define (name . args)\\n          (pict:name (map maybe-atom->pict args) ..)))]))\"",
   "column": 1,
   "fold": false,

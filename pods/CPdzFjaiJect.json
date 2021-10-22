@@ -1,7 +1,7 @@
 {
   "id": "CPdzFjaiJect",
   "parentId": "CPNKtDWP37zK",
-  "index": 13,
+  "index": 14,
   "content": "\"uuid->fp\"",
   "column": 1,
   "fold": false,
@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:uuid->fp>\",\"count\":4613}",
+  "result": "\"\"",
   "stdout": "",
   "error": "null",
   "imports": "{}",

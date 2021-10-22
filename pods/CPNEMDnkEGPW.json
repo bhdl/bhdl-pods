@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:parameter-procedure>\",\"count\":1027}",
+  "result": "\"\"",
   "stdout": "",
   "error": "null",
   "imports": "{}",

@@ -1,7 +1,7 @@
 {
   "id": "CPzjPHajPKM9",
   "parentId": "CPN8XE37ddzD",
-  "index": 9,
+  "index": 8,
   "content": "\"\\n(define (inset p . amts)\\n  (pict:inset (maybe-atom->pict p) amts ..))\"",
   "column": 1,
   "fold": false,

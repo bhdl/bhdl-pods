@@ -1,8 +1,8 @@
 {
-  "id": "CPWVJp9grNxh",
-  "parentId": "CPRMkQVGwhBw",
-  "index": 8,
-  "content": "\"gerber-file->pict\"",
+  "id": "CPNjJDizzLqf",
+  "parentId": "CPHKPFTgKmQp",
+  "index": 30,
+  "content": "\"\\n(define fp-SOT-223\\n  (kicad-helper \\\"Package_TO_SOT_SMD.pretty\\\" \\\"SOT-223.kicad_mod\\\"))\"",
   "column": 1,
   "fold": false,
   "thundar": false,
@@ -10,11 +10,11 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:gerber-file->pict>\",\"count\":5246}",
+  "result": "\"\"",
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"fp-SOT-223\":true}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

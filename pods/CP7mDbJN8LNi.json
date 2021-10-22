@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"1\",\"html\":\"<code>1</code>\",\"count\":7530}",
+  "result": "\"\"",
   "stdout": "",
   "error": "null",
   "imports": "{}",

@@ -1,7 +1,7 @@
 {
   "id": "CPwQezjKfQaj",
   "parentId": "CP9hPyBA9z8P",
-  "index": 18,
+  "index": 20,
   "content": "\"\\n(define (shell cmd)\\n  \\\"This is system, but receive no input. Jupyter notebook hangs on input.\\\"\\n  (parameterize ([current-input-port (open-input-string \\\"\\\")])\\n    (system cmd)))\"",
   "column": 1,
   "fold": false,

@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "\"\"",
-  "stdout": "text-spec: undefined;\n cannot reference an identifier before its definition\n  in module: 'ROOT/CPyimCxcxxTe/CPRMkQVGwhBw/CPHKPFTgKmQp\n  context...:\n   /usr/share/racket/collects/racket/private/norm-define.rkt:52:83: read-kicad-mod\n   /usr/share/racket/collects/racket/private/norm-define.rkt:59:64: kicad-helper\n   body of top-level\n   eval:94:0: CODEPOD-EVAL\n",
+  "stdout": "",
   "error": "null",
   "imports": "{}",
   "exports": "{\"fp-fuse\":true}",

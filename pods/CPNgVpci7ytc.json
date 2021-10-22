@@ -1,7 +1,7 @@
 {
   "id": "CPNgVpci7ytc",
   "parentId": "CPN8XE37ddzD",
-  "index": 8,
+  "index": 7,
   "content": "\"(define (rotate p degree)\\n  (pict:rotate (maybe-atom->pict p) degree))\\n\"",
   "column": 1,
   "fold": false,

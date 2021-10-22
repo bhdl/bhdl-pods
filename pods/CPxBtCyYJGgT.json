@@ -1,8 +1,8 @@
 {
-  "id": "CPrpKDJ9XmeY",
-  "parentId": "CPN39jrjQPpE",
-  "index": 0,
-  "content": "\"struct:Atom\"",
+  "id": "CPxBtCyYJGgT",
+  "parentId": "CPRMkQVGwhBw",
+  "index": 8,
+  "content": "\"(define (fp-kailh-socket-with-stab [unit 2])\\n  (merge-fp (fp-kailh-socket unit)\\n            fp-stabilizer-2u))\"",
   "column": 1,
   "fold": false,
   "thundar": false,
@@ -14,7 +14,7 @@
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"fp-kailh-socket-with-stab\":true}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }
