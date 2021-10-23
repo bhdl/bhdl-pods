@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<struct-type:Atom>\",\"html\":\"<code>#&lt;struct-type:Atom&gt;</code>\",\"count\":1545}",
+  "result": "{\"text\":\"#<struct-type:Atom>\",\"html\":\"<code>#&lt;struct-type:Atom&gt;</code>\",\"count\":1704}",
   "stdout": "",
   "error": "null",
   "imports": "{}",

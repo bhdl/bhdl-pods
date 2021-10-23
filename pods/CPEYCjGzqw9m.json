@@ -1,0 +1,20 @@
+{
+  "id": "CPEYCjGzqw9m",
+  "parentId": "CPyimCxcxxTe",
+  "index": 0,
+  "content": "\"(atom->fp-pict (ATmega32U4))\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "{\"text\":\"(pict '(prog #<procedure:...t/private/utils.rkt:1286:8> 35.29105683188129) 35.29105683188129 35.29105683188129 17.645528415940646 17.645528415940646 (list (child (pict '(picture 8.24 8.24 (put 4.12 4.12 #0=(prog #<procedure> 0))) 8.24 8.24 4.12 4.12 (list (child (pict #0# 0 0 0 0 '() (bbox 0 0 0 0 0 0) #f) 4.12 4.12 1 1 0 0)) (bbox 0.0 0.0 8.24 8.24 4.12 4.12) #f) 0 0 4.282895246587535 4.282895246587535 0 0)) (bbox 0.0 0.0 35.29105683188129 35.29105683188129 17.645528415940646 17.645528415940646) #f)\",\"html\":\"<code><img style=\\\"display: inline; vertical-align: baseline; padding: 0pt; margin: 0pt; border: 0pt\\\" src=\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAE8klEQVRYhc3YT4hf1RUH8M8d\\r\\nM0NmfiQZtMZgkqLMTJxp0mQhMlibjQshramLgFCK1CAo2ATqZOHChVBaaGhUzKISwYVCoVA3\\r\\nEhuDbmIRTbLRQKEmTZwR8scuwkTrJJM4k9PFvb/53fnNbwJFM3jgcd77vvPe+b77zj3n3Jvw\\r\\nDZb5fshMQkREWnArpZfxOWaxAYewG8/grcTQKuISDXyMHfgTXsFDOFPeNID38BSexd9EjHRi\\r\\nk1KKOUIppXHcVe598Sqrx+mawTAOYgxP413cWQz7cAo/w/5ybMPpcn8Qh7ELv8XbWN9hZCKi\\r\\nex6hiuVWvHmK40N8iI6cEr399E/mEfr/OEWsr/yFTCKllGJe7DTJ4JdDjOKC/MuWYxKf4gpO\\r\\nBI/IhGdxApdxsthNlGfJ8TlZ7l0utjeUiAjYiv/gwYiwVAcC483zrjI0L7/KkVMcjzwyN19S\\r\\n2i6lAwcyo3elNARd5fbn43SVmLnQeiZF81iV0qyUfldjFb6mA7ZvEduB8vpJTEzk8wlM08o/\\r\\nszNZz8gxMSfRJJfJ/6DGKnxZB9vVi9j2lMvrmKn8Rk1ow3DWw3IAL4XcjuHKbx+tX3boYNYH\\r\\n8Y/mEyu5npDQX7AeLjexGl/BbDvWzVQn2yIncbDye5HWCO0ey3pMntrvw5f8QflNRd6/ymt4\\r\\nou1rv/6K57G2wo5eYy9+02Y7WfT92Fn5/axpEMHIpqw3BQNtUzIQPUwF99ZYhfd2wEYXsV0Z\\r\\nEYLVwabKb1+xE8Gp81mfD96pCUU5yvmfa6zC13WwfWMR25FCaE9wvvI7ipypE0NltHpLBr7p\\r\\nkthXXfYGxylBvaoMVX+Ouw+XgtDykncqv1spQX2JRoPLpVDO5aEyy7rKQ5ibZX3VyzA3y26p\\r\\nsTLLGu22cIWV6G4wVfxOk2djBCfPcc9azuGEiJ+DlNaY37x9jau4re2DLxSsp8Kmst95sxS+\\r\\nEDEjpTGMnWNt8bsjcVQhtHFz1puDwU6zbAUzwXM1VuGrO2C/X8T27hLUdwSbK78N1Sw7dCTr\\r\\nI8GBJZpljwdHKr+bzVV7Xtmf9X781dLIMeyv/J6jVToe2pb1Nvyk+cRNLh1D2Fb5vZVWwJ4p\\r\\n/eZpVfvxJS8pVbvI0au8bmE5mPqKP+KHFfbBNV7AnjbbS0VfxOnK75WaUEdJ1cu6mbrG3sQ/\\r\\na5uCP5lywNfYC4lPOtg+fSOfTUIDg1kPtpOsepyGMjJtPU5DW59UsD2L2K7Hv+Q0MVj57aUV\\r\\nQ+8dzvowPrrRF3yH8m8crvxO1oSe2pX1Ljy6RIRGsavy21zq5fK/JestwVAzD63MZSQQ/SUP\\r\\n9eQMHG34uhWtNrSJvdGdM3u77UiVGLdUfhuIZun49CzD6zgrl46HoTTkdTmYlNdWdSNGHv71\\r\\n5re/l/BfCxeqZ0RcK6XjmbOsK353JI7VS+nOa/ybLLXfBSvXNsvt8ohclxvyk3Lb+Xc8lti3\\r\\nnOlStXfjL3KCOyYnvYvlTbfJIziKd/ArES+2kRqPiLtpBXUneVjuUR7AL+SVwU45Ue6B6fyL\\r\\nuuWe+A48jhFsx0/LsR0/wq+xRt49aZe75sipflltcUBevS3B7scMljU51ITqjauJyH4X5fRt\\r\\ndz/atn8W346Zk7zWnpanbJ8cE2uLox/LPfBWfID75JIyIFftW5XaJGfgyTKoZ7BRxPEF/rQ2\\r\\nrL5XW3r/A4FJ4m7tL9rLAAAAAElFTkSuQmCC\\r\\n\\\"/></code>\",\"count\":1805}",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

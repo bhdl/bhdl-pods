@@ -14,7 +14,7 @@
   "stdout": "",
   "error": "null",
   "imports": "null",
-  "exports": "null",
+  "exports": "{\"Crystal-4\":true,\"Crystal-2\":true}",
   "midports": "null",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

@@ -11,10 +11,10 @@
   "lang": "racket",
   "type": "CODE",
   "result": "\"\"",
-  "stdout": "",
+  "stdout": "DEBUG:  (unrecognized shape:  SVGNODE)\n",
   "error": "null",
   "imports": "null",
-  "exports": "null",
+  "exports": "{\"LED0603\":true}",
   "midports": "null",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

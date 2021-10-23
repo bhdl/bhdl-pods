@@ -11,10 +11,10 @@
   "lang": "racket",
   "type": "CODE",
   "result": "\"\"",
-  "stdout": "",
+  "stdout": "DEBUG:  (unrecognized shape:  CIRCLE)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SVGNODE)\n",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"LL4148\":true}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }
