@@ -1,8 +1,8 @@
 {
-  "id": "CPzjPHajPKM9",
-  "parentId": "CPN8XE37ddzD",
-  "index": 8,
-  "content": "\"\\n(define (inset p . amts)\\n  (apply pict:inset\\n    (append \\n      (list (maybe-atom->pict p))\\n      amts)))\"",
+  "id": "CPfrKzz6Nhzz",
+  "parentId": "CPyimCxcxxTe",
+  "index": 3,
+  "content": "\"(define global\\n  (make-circuit\\n   #:external-pins (GND 3V3 5V VCC USB5V)))\"",
   "column": 1,
   "fold": false,
   "thundar": false,
@@ -14,7 +14,7 @@
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{\"inset\":true}",
+  "exports": "{}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

@@ -1,0 +1,20 @@
+{
+  "id": "CP7LYtrRDU7c",
+  "parentId": "CPyimCxcxxTe",
+  "index": 10,
+  "content": "\";; connect the matrix\\n(define matrix-module\\n  (make-circuit \\n    #:external-pins (row[4] col[5])\\n    ;; col in, row out\\n    #:connect \\n    (for*/list ([i (in-range 4)]\\n                [j (in-range 5)])\\n               (debug \\\"connecting\\\" i j)\\n               (*- self.col[j]\\n                   (list-ref (list-ref matrix i) j)\\n                   self.row[i]))\\n    #:layout (inset (apply vc-append\\n                      (for/list ([row matrix])\\n                        (apply hc-append row)\\n                        ))\\n                    20)))\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "\"\"",
+  "stdout": "DEBUG:  (connecting 0 0)\nDEBUG:  (connecting 0 1)\nDEBUG:  (connecting 0 2)\nDEBUG:  (connecting 0 3)\nDEBUG:  (connecting 0 4)\nDEBUG:  (connecting 1 0)\nDEBUG:  (connecting 1 1)\nDEBUG:  (connecting 1 2)\nDEBUG:  (connecting 1 3)\nDEBUG:  (connecting 1 4)\nDEBUG:  (connecting 2 0)\nDEBUG:  (connecting 2 1)\nDEBUG:  (connecting 2 2)\nDEBUG:  (connecting 2 3)\nDEBUG:  (connecting 2 4)\nDEBUG:  (connecting 3 0)\nDEBUG:  (connecting 3 1)\nDEBUG:  (connecting 3 2)\nDEBUG:  (connecting 3 3)\nDEBUG:  (connecting 3 4)\n",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

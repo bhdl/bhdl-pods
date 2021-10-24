@@ -1,0 +1,20 @@
+{
+  "id": "CPRdHgRqRmLA",
+  "parentId": "CPyimCxcxxTe",
+  "index": 7,
+  "content": "\"(key-with-diode)\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "{\"text\":\"#<Composite-715223>\",\"html\":\"<code>#&lt;Composite-715223&gt;</code>\",\"count\":2738}",
+  "stdout": "\"DEBUG: /var/tmp/rkttmp_16350993871635099387295\"\n\"DEBUG: /var/tmp/rkttmp_16350993871635099387298\"\n",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

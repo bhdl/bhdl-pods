@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "\"\"",
-  "stdout": "DEBUG:  (unrecognized shape:  SVGNODE)\n",
+  "stdout": "",
   "error": "null",
   "imports": "{}",
   "exports": "{\"USB-C-16\":true}",

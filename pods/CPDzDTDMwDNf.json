@@ -14,7 +14,7 @@
   "stdout": "",
   "error": "null",
   "imports": "{}",
-  "exports": "{}",
+  "exports": "{\"lt-superimpose\":true,\"lb-superimpose\":true,\"lc-superimpose\":true,\"ltl-superimpose\":true,\"lbl-superimpose\":true,\"rt-superimpose\":true,\"rb-superimpose\":true,\"rc-superimpose\":true,\"rtl-superimpose\":true,\"rbl-superimpose\":true,\"ct-superimpose\":true,\"cb-superimpose\":true,\"cc-superimpose\":true,\"ctl-superimpose\":true,\"cbl-superimpose\":false}",
   "midports": "{}",
   "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
 }

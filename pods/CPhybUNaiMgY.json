@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "\"\"",
-  "stdout": "DEBUG:  (unrecognized shape:  CIRCLE)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SVGNODE)\n",
+  "stdout": "",
   "error": "null",
   "imports": "{}",
   "exports": "{\"LL4148\":true}",

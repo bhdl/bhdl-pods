@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "\"\"",
-  "stdout": "standard-module-name-resolver: collection not found\n  for module path: rebellion/collection/entry\n  collection: \"rebellion/collection\"\n  in collection directories:\n   /usr/share/racket/collects/\n   ... [172 additional linked and package directories]\n  context...:\n   body of top-level\n   eval:100:0: CODEPOD-EVAL\n",
+  "stdout": "",
   "error": "null",
   "imports": "{}",
   "exports": "{}",

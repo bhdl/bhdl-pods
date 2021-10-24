@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "\"\"",
-  "stdout": "",
+  "stdout": "\"DEBUG: /var/tmp/rkttmp_16350993751635099375828\"\nfootprint-lines: contract violation\n  expected: footprint?\n  given: \"PLACEHOLDER-fp-kailh-socket-easyeda\"\n  context...:\n   body of 'ROOT/CPVHDqKYNUwz/CPRMkQVGwhBw\n   /usr/share/racket/collects/racket/private/norm-define.rkt:52:83: footprint->gerber-section\n   /usr/share/racket/collects/racket/private/norm-define.rkt:52:83: footprint->gerber\n   /usr/share/racket/collects/racket/private/norm-define.rkt:52:83: footprint->pict-tmp\n   body of top-level\n   eval:100:0: CODEPOD-EVAL\n",
   "error": "null",
   "imports": "{}",
   "exports": "{}",

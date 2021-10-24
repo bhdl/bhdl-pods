@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "\"\"",
+  "result": "{\"text\":\"#<procedure:uuid->fp>\",\"html\":\"<code>#&lt;procedure:uuid-&gt;fp&gt;</code>\",\"count\":2594}",
   "stdout": "",
   "error": "null",
   "imports": "{}",
