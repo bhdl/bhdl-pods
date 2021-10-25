@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:lcsc->fp>\",\"html\":\"<code>#&lt;procedure:lcsc-&gt;fp&gt;</code>\",\"count\":1118}",
+  "result": "{\"text\":\"#<procedure:lcsc->fp>\",\"html\":\"<code>#&lt;procedure:lcsc-&gt;fp&gt;</code>\",\"count\":1853}",
   "stdout": "",
   "error": "null",
   "imports": "{}",

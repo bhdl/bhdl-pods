@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:Point-x>\",\"html\":\"<code>#&lt;procedure:Point-x&gt;</code>\",\"count\":1031}",
+  "result": "{\"text\":\"#<procedure:Point-x>\",\"html\":\"<code>#&lt;procedure:Point-x&gt;</code>\",\"count\":1470}",
   "stdout": "",
   "error": "null",
   "imports": "{}",

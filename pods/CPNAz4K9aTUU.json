@@ -2,7 +2,7 @@
   "id": "CPNAz4K9aTUU",
   "parentId": "CP6M6tV7VJkb",
   "index": 0,
-  "content": "\"(require (for-syntax syntax/parse)\\n        ;  \\\"utils.rkt\\\"\\n        ;  \\\"sch.rkt\\\"\\n        ;  \\\"fp-base.rkt\\\"\\n        ;  \\\"library-base.rkt\\\"\\n        ;  \\\"library-io.rkt\\\"\\n         racket/contract\\n         pict)\"",
+  "content": "\"(require (for-syntax syntax/parse)\\n         racket/contract\\n         pict)\"",
   "column": 1,
   "fold": false,
   "thundar": false,

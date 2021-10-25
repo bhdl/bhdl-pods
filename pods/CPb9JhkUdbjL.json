@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "null",
-  "stdout": "",
+  "stdout": "WARNING:  (hello 1 2 wolrd)\n",
   "error": "null",
   "imports": "{}",
   "exports": "{}",

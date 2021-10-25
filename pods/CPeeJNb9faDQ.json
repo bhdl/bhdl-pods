@@ -1,7 +1,7 @@
 {
   "id": "CPeeJNb9faDQ",
   "parentId": "CPQU4nPmdVqN",
-  "index": 46,
+  "index": 40,
   "content": "\"(define mylsts '((1 2 3) (4 5 6) (1 7 8) (4 9 10)))\\n(get-neighbors mylsts 1)\\n(get-all-connected mylsts (seteq 1) (seteq))\\n(my-merge mylsts)\"",
   "column": 1,
   "fold": false,
@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"'((10 9 6 5 4) (8 7 3 2 1))\",\"html\":\"<code>'((10 9 6 5 4) (8 7 3 2 1))</code>\",\"count\":952}",
+  "result": "{\"text\":\"'((10 9 6 5 4) (8 7 3 2 1))\",\"html\":\"<code>'((10 9 6 5 4) (8 7 3 2 1))</code>\",\"count\":1449}",
   "stdout": "",
   "error": "null",
   "imports": "{}",

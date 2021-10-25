@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:Resistor>\",\"html\":\"<code>#&lt;procedure:Resistor&gt;</code>\",\"count\":1211}",
+  "result": "{\"text\":\"#<procedure:Resistor>\",\"html\":\"<code>#&lt;procedure:Resistor&gt;</code>\",\"count\":2613}",
   "stdout": "",
   "error": "null",
   "imports": "{}",

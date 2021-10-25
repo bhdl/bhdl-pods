@@ -1,7 +1,7 @@
 {
   "id": "CPLTjrywPwTP",
-  "parentId": "CPRMkQVGwhBw",
-  "index": 7,
+  "parentId": "CPENFUAttyc7",
+  "index": 3,
   "content": "\"(define fp-kailh-socket-merge\\n  (merge-fp fp-kailh-socket-kicad\\n            fp-stabilizer-2u))\"",
   "column": 1,
   "fold": false,

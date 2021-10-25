@@ -1,7 +1,7 @@
 {
   "id": "CPthb9f6wWJy",
   "parentId": "CPKCKwcMXwfd",
-  "index": 3,
+  "index": 1,
   "content": "\"(struct IC\\n  ;; this tells nothing about the fields. I really need type\\n  (name prefix datasheet alts fps left right)\\n  #:prefab)\"",
   "column": 1,
   "fold": false,

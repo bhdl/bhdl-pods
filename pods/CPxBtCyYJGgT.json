@@ -1,7 +1,7 @@
 {
   "id": "CPxBtCyYJGgT",
-  "parentId": "CPRMkQVGwhBw",
-  "index": 8,
+  "parentId": "CPENFUAttyc7",
+  "index": 4,
   "content": "\"(define (fp-kailh-socket-with-stab [unit 2])\\n  (merge-fp (fp-kailh-socket unit)\\n            fp-stabilizer-2u))\"",
   "column": 1,
   "fold": false,

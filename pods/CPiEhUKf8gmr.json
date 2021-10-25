@@ -1,7 +1,7 @@
 {
   "id": "CPiEhUKf8gmr",
-  "parentId": "CPWtgTBEDKJd",
-  "index": 23,
+  "parentId": "CPHXAGdqGGDF",
+  "index": 4,
   "content": "\"(define (circuit-plot circuit [auto-place #f])\\n  (parameterize ([current-directory \\\"/tmp\\\"]\\n                 [padding-general 2])\\n                (circuit-export circuit #:auto-place auto-place #:formats '(pdf))))\"",
   "column": 1,
   "fold": false,

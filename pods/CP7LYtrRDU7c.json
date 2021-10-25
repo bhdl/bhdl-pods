@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "null",
-  "stdout": "DEBUG:  (connecting 0 0)\nDEBUG:  (connecting 0 1)\nDEBUG:  (connecting 0 2)\nDEBUG:  (connecting 0 3)\nDEBUG:  (connecting 0 4)\nDEBUG:  (connecting 1 0)\nDEBUG:  (connecting 1 1)\nDEBUG:  (connecting 1 2)\nDEBUG:  (connecting 1 3)\nDEBUG:  (connecting 1 4)\nDEBUG:  (connecting 2 0)\nDEBUG:  (connecting 2 1)\nDEBUG:  (connecting 2 2)\nDEBUG:  (connecting 2 3)\nDEBUG:  (connecting 2 4)\nDEBUG:  (connecting 3 0)\nDEBUG:  (connecting 3 1)\nDEBUG:  (connecting 3 2)\nDEBUG:  (connecting 3 3)\nDEBUG:  (connecting 3 4)\n",
+  "stdout": "DEBUG:  (connecting 0 0)\nDEBUG:  (connecting 0 1)\nDEBUG:  (connecting 0 2)",
   "error": "null",
   "imports": "{}",
   "exports": "{}",

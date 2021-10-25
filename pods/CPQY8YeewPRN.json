@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:atom->fp-pict+Hlocs>\",\"html\":\"<code>#&lt;procedure:atom-&gt;fp-pict+Hlocs&gt;</code>\",\"count\":1224}",
+  "result": "null",
   "stdout": "",
   "error": "null",
   "imports": "{}",

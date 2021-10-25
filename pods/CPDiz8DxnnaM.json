@@ -1,7 +1,7 @@
 {
   "id": "CPDiz8DxnnaM",
   "parentId": "CPQU4nPmdVqN",
-  "index": 7,
+  "index": 1,
   "content": "\"(define (show-layout x)\\n  (cond\\n   [(Atom? x) (Atom-pict x)]\\n   [(Composite? x) (Composite-pict x)]\\n   [else (error \\\"show-layout error:\\\" x)]))\"",
   "column": 1,
   "fold": false,

@@ -1,10 +1,10 @@
 {
   "id": "CPKDyD7Wc376",
-  "parentId": "CPKCKwcMXwfd",
+  "parentId": "CPckUrdGFJME",
   "index": 0,
   "content": "\"(require (for-syntax syntax/parse)\\n         racket/contract\\n         pict)\"",
   "column": 1,
-  "fold": true,
+  "fold": false,
   "thundar": false,
   "utility": false,
   "name": "",

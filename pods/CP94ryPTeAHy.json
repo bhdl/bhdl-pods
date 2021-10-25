@@ -1,7 +1,7 @@
 {
   "id": "CP94ryPTeAHy",
   "parentId": "CPKCKwcMXwfd",
-  "index": 2,
+  "index": 0,
   "content": "\"(struct FpSpec\\n  (name fp pins)\\n  #:prefab)\"",
   "column": 1,
   "fold": false,
