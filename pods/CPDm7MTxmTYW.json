@@ -1,7 +1,7 @@
 {
   "id": "CPDm7MTxmTYW",
   "parentId": "CPtgV36e4DrU",
-  "index": 16,
+  "index": 17,
   "content": "\"(define (IC+Atom->fp-pict+Hlocs ic atom)\\n  (let-values ([(p Hlocs) (IC->fp-pict+Hlocs ic (ICAtom-which-fp atom))])\\n    (let ([Hlocs (for/hash ([(name point) Hlocs])\\n                   (values\\n                    ;; basically change the name to the index of the atom\\n                    (Pin-name (hash-ref (Atom-pinhash atom) name))\\n                    point))])\\n      (values p Hlocs))))\"",
   "column": 1,
   "fold": false,
@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "\"\"",
+  "result": "null",
   "stdout": "",
   "error": "null",
   "imports": "{}",

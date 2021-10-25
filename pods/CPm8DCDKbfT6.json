@@ -1,7 +1,7 @@
 {
   "id": "CPm8DCDKbfT6",
   "parentId": "CPtgV36e4DrU",
-  "index": 12,
+  "index": 13,
   "content": "\"(define easyeda-objects-prefix\\n  (list\\n    \\\"All~true~false\\\"\\n    \\\"Component~true~true\\\"\\n    \\\"Prefix~true~true\\\"\\n    \\\"Name~true~false\\\"\\n    \\\"Track~true~true\\\"\\n    \\\"Pad~true~true\\\"\\n    \\\"Via~true~true\\\"\\n    \\\"Hole~true~true\\\"\\n    \\\"Copper_Area~true~true\\\"\\n    \\\"Circle~true~true\\\"\\n    \\\"Arc~true~true\\\"\\n    \\\"Solid_Region~true~true\\\"\\n    \\\"Text~true~true\\\"\\n    \\\"Image~true~true\\\"\\n    \\\"Rect~true~true\\\"\\n    \\\"Dimension~true~true\\\"\\n    \\\"Protractor~true~true\\\"\\n  ))\"",
   "column": 1,
   "fold": false,
@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "\"\"",
+  "result": "null",
   "stdout": "",
   "error": "null",
   "imports": "{}",

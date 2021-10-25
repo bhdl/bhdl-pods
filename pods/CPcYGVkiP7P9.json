@@ -1,0 +1,20 @@
+{
+  "id": "CPcYGVkiP7P9",
+  "parentId": "CPgh3kxexKr7",
+  "index": 10,
+  "content": "\"(parameterize ([current-directory \\\"./out/demo-board/matrix\\\"]\\n               [padding-general 2])\\n    (circuit-export matrix-module\\n                    #:auto-place #f\\n                    #:formats '(kicad pdf png svg)))\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "null",
+  "stdout": "atom->fp-pict+Hlocs: undefined;\n cannot reference an identifier before its definition\n  in module: 'ROOT/CPyimCxcxxTe/CPWtgTBEDKJd\n  context...:\n   body of 'ROOT/CPyimCxcxxTe/CPgh3kxexKr7\n   /usr/share/racket/collects/racket/private/norm-define.rkt:52:83: atom->macro\n   /usr/share/racket/collects/racket/private/norm-define.rkt:52:83: Composite->place-spec\n   /usr/share/racket/collects/racket/private/norm-define.rkt:52:83: circuit-export\n   body of top-level\n   eval:100:0: CODEPOD-EVAL\n",
+  "error": "{\"ename\":\"stderr\",\"evalue\":\"stderr\",\"stacktrace\":\"\"}",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

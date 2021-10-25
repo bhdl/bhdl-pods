@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "\"\"",
+  "result": "null",
   "stdout": "",
   "error": "null",
   "imports": "{}",

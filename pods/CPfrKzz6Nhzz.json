@@ -1,6 +1,6 @@
 {
   "id": "CPfrKzz6Nhzz",
-  "parentId": "CPyimCxcxxTe",
+  "parentId": "CPgh3kxexKr7",
   "index": 3,
   "content": "\"(define global\\n  (make-circuit\\n   #:external-pins (GND 3V3 5V VCC USB5V)))\"",
   "column": 1,
@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "\"\"",
+  "result": "null",
   "stdout": "",
   "error": "null",
   "imports": "{}",

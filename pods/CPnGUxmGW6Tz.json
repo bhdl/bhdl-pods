@@ -10,7 +10,7 @@
   "name": "gerber",
   "lang": "racket",
   "type": "DECK",
-  "result": "\"\"",
+  "result": "null",
   "stdout": "",
   "error": "null",
   "imports": "{}",

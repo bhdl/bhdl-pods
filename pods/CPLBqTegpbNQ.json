@@ -1,0 +1,20 @@
+{
+  "id": "CPLBqTegpbNQ",
+  "parentId": "CPtgV36e4DrU",
+  "index": 10,
+  "content": "\"atom->fp-pict+Hlocs\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "{\"text\":\"#<procedure:atom->fp-pict+Hlocs>\",\"html\":\"<code>#&lt;procedure:atom-&gt;fp-pict+Hlocs&gt;</code>\",\"count\":1222}",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

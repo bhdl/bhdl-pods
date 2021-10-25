@@ -10,7 +10,7 @@
   "name": null,
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:rb-superimpose>\",\"html\":\"<code>#&lt;procedure:rb-superimpose&gt;</code>\",\"count\":2646}",
+  "result": "{\"text\":\"#<procedure:rb-superimpose>\",\"html\":\"<code>#&lt;procedure:rb-superimpose&gt;</code>\",\"count\":1086}",
   "stdout": "",
   "error": "null",
   "imports": "null",

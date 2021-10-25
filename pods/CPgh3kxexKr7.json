@@ -1,0 +1,20 @@
+{
+  "id": "CPgh3kxexKr7",
+  "parentId": "CPyimCxcxxTe",
+  "index": 6,
+  "content": null,
+  "column": 1,
+  "fold": false,
+  "thundar": true,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "DECK",
+  "result": "null",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

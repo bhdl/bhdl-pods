@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "DECK",
   "result": "null",
-  "stdout": null,
+  "stdout": "",
   "error": "null",
   "imports": "null",
   "exports": "{\"self\":true}",
