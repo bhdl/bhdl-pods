@@ -1,0 +1,20 @@
+{
+  "id": "CPfVzMFTdfEC",
+  "parentId": "CPPVAQ3PqWjt",
+  "index": 2,
+  "content": "\"import CUDA\\n# This will download CUDA\\n@info CUDA.version()\\n@info CUDA.has_cuda()\\n\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "julia",
+  "type": "CODE",
+  "result": "{\"text\":\"ok\",\"count\":11}",
+  "stdout": "┌ Info: 11.4.0\n└ @ Main.ROOT.CPPVAQ3PqWjt string:3\n┌ Info: true\n└ @ Main.ROOT.CPPVAQ3PqWjt string:4\n",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

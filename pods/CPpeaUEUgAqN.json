@@ -1,0 +1,20 @@
+{
+  "id": "CPpeaUEUgAqN",
+  "parentId": "CPn9Kk3EhUPf",
+  "index": 4,
+  "content": "\"function isoverlap_old(spoly, cpoly)\\n    if isempty(clipSH(spoly, cpoly)) return false\\n    else return true\\n    end\\nend\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "julia",
+  "type": "CODE",
+  "result": "{\"text\":\"isoverlap_old (generic function with 1 method)\",\"count\":19}",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

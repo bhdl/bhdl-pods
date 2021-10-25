@@ -1,0 +1,20 @@
+{
+  "id": "CPndKCKFPYbA",
+  "parentId": "CPn9Kk3EhUPf",
+  "index": 0,
+  "content": "\"import Luxor: Point\\n\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "julia",
+  "type": "CODE",
+  "result": "{\"text\":\"ok\",\"count\":24}",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}
