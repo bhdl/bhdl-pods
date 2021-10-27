@@ -1,0 +1,20 @@
+{
+  "id": "CPyccLkbKFfD",
+  "parentId": "CPgh3kxexKr7",
+  "index": 13,
+  "content": "\"(Atom-pinhash (PinHeader2 3))\\n; (pin-ref (PinHeader2 3) 4)\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "{\"text\":\"'#hash((1 . #3=#<Pin-318443-index-6>) (2 . #0=#<Pin-318443-index-5>) (3 . #4=#<Pin-318443-index-4>) (4 . #5=#<Pin-318443-index-3>) (5 . #1=#<Pin-318443-index-2>) (6 . #2=#<Pin-318443-index-1>) (fp-2 . #0#) (fp-5 . #1#) (index-5 . #0#) (index-2 . #1#) (fp-6 . #2#) (fp-1 . #3#) (index-1 . #2#) (index-6 . #3#) (index-4 . #4#) (fp-3 . #4#) (index-3 . #5#) (fp-4 . #5#))\",\"html\":\"<code>'#hash((1 . #&lt;Pin-318443-index-6&gt;) (2 . #&lt;Pin-318443-index-5&gt;) (3 . #&lt;Pin-318443-index-4&gt;) (4 . #&lt;Pin-318443-index-3&gt;) (5 . #&lt;Pin-318443-index-2&gt;) (6 . #&lt;Pin-318443-index-1&gt;) (fp-1 . #&lt;Pin-318443-index-6&gt;) (fp-2 . #&lt;Pin-318443-index-5&gt;) (fp-3 . #&lt;Pin-318443-index-4&gt;) (fp-4 . #&lt;Pin-318443-index-3&gt;) (fp-5 . #&lt;Pin-318443-index-2&gt;) (fp-6 . #&lt;Pin-318443-index-1&gt;) (index-1 . #&lt;Pin-318443-index-1&gt;) (index-2 . #&lt;Pin-318443-index-2&gt;) (index-3 . #&lt;Pin-318443-index-3&gt;) (index-4 . #&lt;Pin-318443-index-4&gt;) (index-5 . #&lt;Pin-318443-index-5&gt;) (index-6 . #&lt;Pin-318443-index-6&gt;))</code>\",\"count\":757}",
+  "stdout": "\"DEBUG: /var/tmp/rkttmp_16352006401635200640391\"\n",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

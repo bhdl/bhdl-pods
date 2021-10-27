@@ -1,7 +1,7 @@
 {
   "id": "CPcYGVkiP7P9",
   "parentId": "CPgh3kxexKr7",
-  "index": 10,
+  "index": 11,
   "content": "\"(parameterize ([current-directory \\\"./out/demo-board/matrix\\\"]\\n               [padding-general 2])\\n    (circuit-export matrix-module\\n                    #:auto-place #f\\n                    #:formats '(kicad pdf png svg)))\"",
   "column": 1,
   "fold": false,
@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "null",
-  "stdout": "generating KiCAD PCB ..\nlink: /out/demo-board/matrix/out.kicad_pcb\nDEBUG:  (Number of conflicts: 0)\ngenerating pdf ..\nlink: /out/demo-board/matrix/out.pdf\nlink: /out/demo-board/matrix/out.png\nlink: /out/demo-board/matrix/out.svg\n",
+  "stdout": "generating KiCAD PCB ..\n\"DEBUG: /var/tmp/rkttmp_16352006391635200639930\"\n\"DEBUG: /var/tmp/rkttmp_16352006391635200639935\"\n",
   "error": "null",
   "imports": "{}",
   "exports": "{}",

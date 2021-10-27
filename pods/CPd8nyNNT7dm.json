@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:ICAtom>\",\"html\":\"<code>#&lt;procedure:ICAtom&gt;</code>\",\"count\":1904}",
+  "result": "{\"text\":\"#<procedure:ICAtom>\",\"html\":\"<code>#&lt;procedure:ICAtom&gt;</code>\",\"count\":729}",
   "stdout": "",
   "error": "null",
   "imports": "{}",

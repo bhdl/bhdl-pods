@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "null",
-  "stdout": "",
+  "stdout": "DEBUG:  (unrecognized shape:  ARC)\nDEBUG:  (unrecognized shape:  ARC)\nDEBUG:  (unrecognized shape:  SVGNODE)\n",
   "error": "null",
   "imports": "{}",
   "exports": "{\"ATmega16U4\":true,\"ATmega32U4\":true}",

@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "null",
-  "stdout": "",
+  "stdout": "requesting https://easyeda.com/api/products/C212826/svgs ..\nrequesting https://easyeda.com/api/components/1857a970000b4f40a8e3ceb5daa252c0 ..\nDEBUG:  (Saved to /mount/shared/bhdl-footprints/easyeda/1857a970000b4f40a8e3ceb5daa252c0.json)\nDEBUG:  (unrecognized shape:  CIRCLE)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SOLIDREGION)\nDEBUG:  (unrecognized shape:  SVGNODE)\n",
   "error": "null",
   "imports": "{}",
   "exports": "{\"LL4148\":true}",

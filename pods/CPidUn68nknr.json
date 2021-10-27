@@ -1,0 +1,20 @@
+{
+  "id": "CPidUn68nknr",
+  "parentId": "CPgh3kxexKr7",
+  "index": 22,
+  "content": "\"(CODEPOD-link \\\"./out/demo-board/mcu-board/out.pdf\\\")\"",
+  "column": 1,
+  "fold": false,
+  "thundar": false,
+  "utility": false,
+  "name": "",
+  "lang": "racket",
+  "type": "CODE",
+  "result": "{\"text\":\"\\\"CODEPOD-link f5378dc3-585c-4eb8-a02f-299ddbd5da72/out.pdf\\\"\",\"html\":\"<a target=\\\"_blank\\\" style=\\\"color:blue\\\" href=\\\"http://api.codepod.test:3000/static/f5378dc3-585c-4eb8-a02f-299ddbd5da72/out.pdf\\\" download>out.pdf</a>\",\"file\":\"http://api.codepod.test:3000/static/f5378dc3-585c-4eb8-a02f-299ddbd5da72/out.pdf\",\"count\":768}",
+  "stdout": "",
+  "error": "null",
+  "imports": "{}",
+  "exports": "{}",
+  "midports": "{}",
+  "repoId": "102c7cad-cc6a-4ac2-b30c-d5e168c069bf"
+}

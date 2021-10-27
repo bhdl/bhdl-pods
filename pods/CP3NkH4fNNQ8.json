@@ -1,7 +1,7 @@
 {
   "id": "CP3NkH4fNNQ8",
   "parentId": "CPgh3kxexKr7",
-  "index": 9,
+  "index": 10,
   "content": "\"; circuit-export\\nComposite->place-spec\"",
   "column": 1,
   "fold": false,
@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:Composite->place-spec>\",\"html\":\"<code>#&lt;procedure:Composite-&gt;place-spec&gt;</code>\",\"count\":2620}",
+  "result": "{\"text\":\"#<procedure:Composite->place-spec>\",\"html\":\"<code>#&lt;procedure:Composite-&gt;place-spec&gt;</code>\",\"count\":754}",
   "stdout": "",
   "error": "null",
   "imports": "{}",
