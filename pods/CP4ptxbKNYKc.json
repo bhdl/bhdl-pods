@@ -1,7 +1,7 @@
 {
   "id": "CP4ptxbKNYKc",
   "parentId": "CPQU4nPmdVqN",
-  "index": 10,
+  "index": 9,
   "content": "\"\\n(make-circuit #:external-pins (left right))\"",
   "column": 1,
   "fold": false,
@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<Composite-216180>\",\"html\":\"<code>#&lt;Composite-216180&gt;</code>\",\"count\":475}",
+  "result": "{\"text\":\"#<Composite-152686>\",\"html\":\"<code>#&lt;Composite-152686&gt;</code>\",\"count\":284}",
   "stdout": "",
   "error": "null",
   "imports": "{}",

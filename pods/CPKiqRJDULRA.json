@@ -11,7 +11,7 @@
   "lang": "racket",
   "type": "CODE",
   "result": "null",
-  "stdout": "DEBUG:  (unrecognized shape:  SVGNODE)\n",
+  "stdout": "",
   "error": "null",
   "imports": "null",
   "exports": "{\"LED0603\":true}",

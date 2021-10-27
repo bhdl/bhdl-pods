@@ -10,7 +10,7 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<path:/mount/shared/bhdl-footprints>\",\"html\":\"<code>#&lt;path:/mount/shared/bhdl-footprints&gt;</code>\",\"count\":515}",
+  "result": "{\"text\":\"#<path:/mount/shared/bhdl-footprints>\",\"html\":\"<code>#&lt;path:/mount/shared/bhdl-footprints&gt;</code>\",\"count\":46}",
   "stdout": "",
   "error": "null",
   "imports": "{}",
