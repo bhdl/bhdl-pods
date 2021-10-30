@@ -1,7 +1,7 @@
 {
   "id": "CPkQpyimajxc",
   "parentId": "CPgh3kxexKr7",
-  "index": 17,
+  "index": 19,
   "content": "\";; \\\"http://localhost:8082\\\"\\n(placer-url)\"",
   "column": 1,
   "fold": false,
@@ -10,9 +10,6 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"\\\"http://localhost:8082\\\"\",\"html\":\"<code>\\\"http://localhost:8082\\\"</code>\",\"count\":761}",
-  "stdout": "",
-  "error": "null",
   "imports": "{}",
   "exports": "{}",
   "midports": "{}",

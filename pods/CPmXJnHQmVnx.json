@@ -1,7 +1,7 @@
 {
   "id": "CPmXJnHQmVnx",
   "parentId": "CPgh3kxexKr7",
-  "index": 4,
+  "index": 6,
   "content": "\"; Atom\\nCODEPOD-link\"",
   "column": 1,
   "fold": false,
@@ -10,9 +10,6 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:CODEPOD-link>\",\"html\":\"<code>#&lt;procedure:CODEPOD-link&gt;</code>\",\"count\":748}",
-  "stdout": "",
-  "error": "null",
   "imports": "{}",
   "exports": "{}",
   "midports": "{}",

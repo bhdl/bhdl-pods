@@ -1,7 +1,7 @@
 {
   "id": "CP3NrkTaVdLE",
   "parentId": "CPgh3kxexKr7",
-  "index": 14,
+  "index": 16,
   "content": "\"(icsp-header)\"",
   "column": 1,
   "fold": false,
@@ -10,9 +10,6 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<Composite-318458>\",\"html\":\"<code>#&lt;Composite-318458&gt;</code>\",\"count\":758}",
-  "stdout": "",
-  "error": "null",
   "imports": "{}",
   "exports": "{}",
   "midports": "{}",

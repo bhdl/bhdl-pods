@@ -1,8 +1,8 @@
 {
-  "id": "CPpYMmLiQRdz",
-  "parentId": "CPPE86iNgiYF",
+  "id": "CPh94CAYUKLP",
+  "parentId": "CPgh3kxexKr7",
   "index": 2,
-  "content": "\"(enter! #)\\n(reset-module ROOT/CPPE86iNgiYF cc foo bb)\"",
+  "content": "\"Composite->netlist\"",
   "column": 1,
   "fold": false,
   "thundar": false,

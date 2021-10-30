@@ -1,7 +1,7 @@
 {
   "id": "CP4HVhqJeTqa",
   "parentId": "CPgh3kxexKr7",
-  "index": 21,
+  "index": 23,
   "content": "\"(CODEPOD-link \\\"./out/demo-board/mcu-board/out.kicad_pcb\\\")\"",
   "column": 1,
   "fold": false,
@@ -10,9 +10,6 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"\\\"CODEPOD-link c834d232-54cc-4614-a0a1-8132b0a62625/out.kicad_pcb\\\"\",\"html\":\"<a target=\\\"_blank\\\" style=\\\"color:blue\\\" href=\\\"http://api.codepod.test:3000/static/c834d232-54cc-4614-a0a1-8132b0a62625/out.kicad_pcb\\\" download>out.kicad_pcb</a>\",\"file\":\"http://api.codepod.test:3000/static/c834d232-54cc-4614-a0a1-8132b0a62625/out.kicad_pcb\",\"count\":767}",
-  "stdout": "",
-  "error": "null",
   "imports": "{}",
   "exports": "{}",
   "midports": "{}",

@@ -1,7 +1,7 @@
 {
   "id": "CPqTyqKCeqzk",
   "parentId": "CPgh3kxexKr7",
-  "index": 2,
+  "index": 4,
   "content": "\"Resistor\"",
   "column": 1,
   "fold": false,
@@ -10,9 +10,6 @@
   "name": "",
   "lang": "racket",
   "type": "CODE",
-  "result": "{\"text\":\"#<procedure:Resistor>\",\"html\":\"<code>#&lt;procedure:Resistor&gt;</code>\",\"count\":746}",
-  "stdout": "",
-  "error": "null",
   "imports": "{}",
   "exports": "{}",
   "midports": "{}",
