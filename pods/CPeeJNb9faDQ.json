@@ -1,7 +1,7 @@
 {
   "id": "CPeeJNb9faDQ",
-  "parentId": "CPQU4nPmdVqN",
-  "index": 45,
+  "parentId": "CPckUrdGFJME",
+  "index": 36,
   "content": "\"(define mylsts '((1 2 3) (4 5 6) (1 7 8) (4 9 10)))\\n(get-neighbors mylsts 1)\\n(get-all-connected mylsts (seteq 1) (seteq))\\n(my-merge mylsts)\"",
   "column": 1,
   "fold": false,

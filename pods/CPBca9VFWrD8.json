@@ -1,8 +1,8 @@
 {
-  "id": "CPDRF3FaDbkm",
-  "parentId": "CPQU4nPmdVqN",
-  "index": 37,
-  "content": "\"\\n(define (collect-all-composites comp)\\n  (collect-all-composites-helper (seteq comp) (seteq)))\"",
+  "id": "CPBca9VFWrD8",
+  "parentId": "CPckUrdGFJME",
+  "index": 28,
+  "content": "\"(define (collect-all-composites comp)\\n  (collect-all-composites-helper \\n    (seteq comp) \\n    (seteq)))\"",
   "column": 1,
   "fold": false,
   "thundar": false,
