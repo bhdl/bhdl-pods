@@ -66,20 +66,22 @@
       (build-path 
         (case (system-type)
           [(unix) "~/.config/bhdl"]
-          [(macosx) "~/Library/Application\\ Support/bhdl"]
+          [(macosx) "~/Library/Application Support/bhdl"]
           [(windows) 
            "C:\\Users\\%USER%\\AppData\\Roaming\\bhdl"]
            [else (error "System type error")])
-        "bhdl-footprint")
+        "bhdl-footprints")
       )))
 
 (define (download-footprints)
   (let ([dir (bhdl-footprints-path)])
     (when (not (directory-exists? dir))
       (displayln (~a "Downloading footprints to " dir))
-      (system (~a "git clone --recursive "
-                  "https://github.com/lihebi/bhdl-footprints "
-                  dir)))))
+      (parameterize 
+        ([current-directory (build-path dir "..")])
+        (system (~a "git clone --recursive "
+                    "https://github.com/lihebi/bhdl-footprints "
+                    ))))))
 
 ;; warning downloading
 (download-footprints)
