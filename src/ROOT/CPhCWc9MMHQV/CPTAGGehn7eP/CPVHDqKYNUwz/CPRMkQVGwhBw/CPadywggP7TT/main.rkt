@@ -66,7 +66,7 @@
       (build-path 
         (case (system-type)
           [(unix) "~/.config/bhdl"]
-          [(macosx) "~/Library/Application Support/bhdl"]
+          [(macosx) "~/Library/Application\\ Support/bhdl"]
           [(windows) 
            "C:\\Users\\%USER%\\AppData\\Roaming\\bhdl"]
            [else (error "System type error")])

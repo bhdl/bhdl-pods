@@ -2,7 +2,7 @@
   "id": "CPfXRDp4x6aA",
   "parentId": "CPadywggP7TT",
   "index": 7,
-  "content": "\"\\n(define bhdl-footprints-path\\n  ;; FIXME make this configurable\\n  (make-parameter\\n    (expand-user-path\\n      ;  \\\"/mount/shared/bhdl-footprints\\\"\\n      (build-path \\n        (case (system-type)\\n          [(unix) \\\"~/.config/bhdl\\\"]\\n          [(macosx) \\\"~/Library/Application Support/bhdl\\\"]\\n          [(windows) \\n           \\\"C:\\\\\\\\Users\\\\\\\\%USER%\\\\\\\\AppData\\\\\\\\Roaming\\\\\\\\bhdl\\\"]\\n           [else (error \\\"System type error\\\")])\\n        \\\"bhdl-footprint\\\")\\n      )))\"",
+  "content": "\"\\n(define bhdl-footprints-path\\n  ;; FIXME make this configurable\\n  (make-parameter\\n    (expand-user-path\\n      ;  \\\"/mount/shared/bhdl-footprints\\\"\\n      (build-path \\n        (case (system-type)\\n          [(unix) \\\"~/.config/bhdl\\\"]\\n          [(macosx) \\\"~/Library/Application\\\\\\\\ Support/bhdl\\\"]\\n          [(windows) \\n           \\\"C:\\\\\\\\Users\\\\\\\\%USER%\\\\\\\\AppData\\\\\\\\Roaming\\\\\\\\bhdl\\\"]\\n           [else (error \\\"System type error\\\")])\\n        \\\"bhdl-footprint\\\")\\n      )))\"",
   "column": 1,
   "fold": false,
   "thundar": false,
