@@ -1,7 +1,7 @@
 {
   "id": "CPfgA6XPmwCf",
   "parentId": "CP9hPyBA9z8P",
-  "index": 16,
+  "index": 15,
   "content": "\"(define (hash-ref-ref-noerr hash . keys)\\n  \\\"On error, return #f.\\\"\\n  (for/fold ([acc hash])\\n      ([key keys])\\n    (if (and acc (hash-has-key? acc key))\\n        (hash-ref acc key)\\n        #f)))\"",
   "column": 1,
   "fold": false,

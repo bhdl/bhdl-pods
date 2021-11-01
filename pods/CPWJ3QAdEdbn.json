@@ -2,7 +2,7 @@
   "id": "CPWJ3QAdEdbn",
   "parentId": "CPYFdkyGhc6b",
   "index": 1,
-  "content": "\"1N4148W\\n\\n;; codepod export to files TODO\\n\\n;; raco pkg install bhdl\\n(require bhdl)\"",
+  "content": "\"1N4148W\"",
   "column": 1,
   "fold": false,
   "thundar": false,

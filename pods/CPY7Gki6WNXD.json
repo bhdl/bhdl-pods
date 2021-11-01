@@ -5,7 +5,7 @@
   "content": "\"(current-directory)\\n(directory-list \\\"/mount/shared\\\")\\n; (system \\\"echo 'hallo'\\\")\\n; (system \\\"git\\\")\\n; (system \\\"git clone --recursive https://github.com/lihebi/bhdl-footprints /mount/shared/bhdl-footprints\\\")\\n(system \\\"ls /mount/shared/\\\")\"",
   "column": 1,
   "fold": false,
-  "thundar": false,
+  "thundar": true,
   "utility": false,
   "name": "",
   "lang": "racket",

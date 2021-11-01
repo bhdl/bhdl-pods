@@ -1,8 +1,8 @@
 {
   "id": "CPYppJdHGVXF",
   "parentId": "CPadywggP7TT",
-  "index": 8,
-  "content": "\"(bhdl-footprints-path)\"",
+  "index": 9,
+  "content": "\";; warning downloading\\n(download-footprints)\"",
   "column": 1,
   "fold": false,
   "thundar": false,

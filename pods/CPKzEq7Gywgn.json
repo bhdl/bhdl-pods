@@ -1,7 +1,7 @@
 {
   "id": "CPKzEq7Gywgn",
   "parentId": "CPHKPFTgKmQp",
-  "index": 37,
+  "index": 36,
   "content": "\"(define fp-kailh-socket-kicad\\n  (kicad-helper \\\"keyswitches.pretty\\\" \\\"Kailh_socket_MX.kicad_mod\\\"))\"",
   "column": 1,
   "fold": false,
